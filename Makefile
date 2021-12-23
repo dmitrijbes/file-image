@@ -2,7 +2,7 @@ COMPILER = g++
 
 COMPILER_FLAGS = -std=c++17 -pedantic -Wall -Wextra -Werror -Wshadow -O2 -g
 
-HEADER_DIRS = -Ilib\opencv\include
+HEADER_DIRS =
 LIBRARY_DIRS =
 LIBS =
 
